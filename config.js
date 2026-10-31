@@ -4,7 +4,7 @@ export const config = {
 
     backends: {
         meting: {
-            base: 'https://meting-workers.zjk6.workers.dev/?auth=R3tY6uI8oP1aS4dF7gH0jK2lZ5xC8vB9nM3qW6eT1rY=',
+            base: 'https://api.qijieya.cn/meting',
         },
         netease: {
             base: 'https://zm.wwoyun.cn/',
